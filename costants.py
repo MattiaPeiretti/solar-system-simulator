@@ -1,0 +1,7 @@
+# Scientific Costants
+SPEED = 2
+GRAVITATIONAL_COSTANT = 6.673*(10**-11)
+
+# Planet Defaults
+DEFAULT_PLANET_MASS = 100
+DEFAULT_PLANET_RADIUS = 10
